@@ -106,7 +106,7 @@ Comprueba las credenciales contra el hash en base de datos y habilita el acceso.
 
   ## Alojamiento en GitHub Pages
 
-El proyecto está alojado en GitHub Pages: https://tu-usuario.github.io/tu-repositorio/
+El proyecto está alojado en GitHub Pages:(https://github.com/melinya-byte/PFO2Redes.git)
 
   ## Respuestas Conceptuales
 
