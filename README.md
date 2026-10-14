@@ -104,12 +104,12 @@ Comprueba las credenciales contra el hash en base de datos y habilita el acceso.
 ![Error](capturas/error-faltan datos.png)
 
 ## Repositorio GitHub
-https://github.com/melinya-byte/PFO2Redes
+<https://github.com/melinya-byte/PFO2Redes>
 
 ## Alojamiento en GitHub Pages
 
 El proyecto está publicado en GitHub Pages:  
-https://melinya-byte.github.io/PFO2Redes/
+<https://melinya-byte.github.io/PFO2Redes/>
 
   ## Respuestas Conceptuales
 
