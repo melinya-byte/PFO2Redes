@@ -103,10 +103,13 @@ Comprueba las credenciales contra el hash en base de datos y habilita el acceso.
 ### 6. Error Faltan datos
 ![Error](capturas/error-faltan datos.png)
 
+## Repositorio GitHub
+https://github.com/melinya-byte/PFO2Redes
 
-  ## Alojamiento en GitHub Pages
+## Alojamiento en GitHub Pages
 
-El proyecto está alojado en GitHub Pages: https://tu-usuario.github.io/tu-repositorio/
+El proyecto está publicado en GitHub Pages:  
+https://melinya-byte.github.io/PFO2Redes/
 
   ## Respuestas Conceptuales
 
